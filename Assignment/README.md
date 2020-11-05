@@ -22,3 +22,5 @@
     - First open <em>eigenface_dataset.py</em> and run the program in python to get the datasets.
     - The obtained datasets will be stored in the same folder.
     - Now open the <em>eigenfaces.R</em> and run the program which uses the downloaded datasets and produces the result.
+
+(olivetti_X.csv which is required to run <em>eigenfaces.R</em> is not included in this repo as it's size is exceeding 25Mb).
